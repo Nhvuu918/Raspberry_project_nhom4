@@ -49,3 +49,10 @@
 2026-06-21 17:20:46 25.7 do C 39 % 
 2026-06-21 17:20:48 25.7 do C 39 % 
 2026-06-21 17:20:51 25.8 do C 41 % 
+2026-06-28 16:27:45 <property object at 0x7ffefad7a480> do C <property object at 0x7ffefae14d10> % 
+2026-06-28 16:28:31 <property object at 0x7fff3079ca90> do C <property object at 0x7fff308172e0> % 
+2026-06-28 16:30:26 <property object at 0x7ffef1ab8ea0> do C <property object at 0x7ffef1ae7420> % 
+2026-06-28 16:30:44 <property object at 0x7ffed0c2cc20> do C <property object at 0x7ffed0ca7420> % 
+2026-06-28 16:31:48 <property object at 0x7fff77eb0ae0> do C <property object at 0x7fff77f2b2e0> % 
+2026-06-28 16:46:19 0 do C 0 % 
+2026-06-28 16:50:38 30.6 do C 57 % 
